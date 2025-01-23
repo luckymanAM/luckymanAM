@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckymanAM
 - 👀 I’m interested in ...Gaming and Coding
-- 🌱 I’m currently learning ...C,C++,HTML,Python,Kotlin
+- 🌱 I’m currently learning ...C,C++,Python,Terraform,AWS,Azure
 - 📫 How to reach me ...luckymadhukar9@gmail.com
 
 <!---
